@@ -15,7 +15,7 @@ import talib
 # Load the model
 @st.cache_resource
 def load_lstm_model():
-    return load_model('stock_lstm_model.h5')
+    return load_model('my_model.keras')
 
 # Function to fetch stock data
 @st.cache_data
