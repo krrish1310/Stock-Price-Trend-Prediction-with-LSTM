@@ -11,7 +11,8 @@ Predict future stock prices based on historical data using an LSTM (Long Short-T
 - Keras / TensorFlow
 - Pandas, NumPy
 - Matplotlib
-- yfinance (Yahoo Finance API)
+- yfinance (Yahoo Finance API)![Screenshot 2025-05-18 at 10 28 57 AM](https://github.com/user-attachments/assets/1be5fcf0-4dd4-4542-9ceb-db84e4f209bc)
+
 - TA-Lib (for technical indicators)
 - Streamlit (optional dashboard deployment)
 
@@ -43,7 +44,7 @@ Example architecture using Keras:
 4. Train & Validate Model
 Train with training data and validate on test data:
 5. Plot Predictions vs Actual
-Visualize results:
+
 6. Add Technical Indicators (Moving Average, RSI)
 Using TA-Lib:
 7. (Optional) Deploy Dashboard with Streamlit
