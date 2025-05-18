@@ -11,7 +11,7 @@ Predict future stock prices based on historical data using an LSTM (Long Short-T
 - Keras / TensorFlow
 - Pandas, NumPy
 - Matplotlib
-- yfinance (Yahoo Finance API)![Screenshot 2025-05-18 at 10 28 57 AM](https://github.com/user-attachments/assets/1be5fcf0-4dd4-4542-9ceb-db84e4f209bc)
+- yfinance (Yahoo Finance API)!
 
 - TA-Lib (for technical indicators)
 - Streamlit (optional dashboard deployment)
