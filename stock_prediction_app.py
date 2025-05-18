@@ -1,6 +1,4 @@
-# Bonus: Create Streamlit Dashboard
-# --------------------------------
-# Save this code to a separate file named 'stock_prediction_app.py'
+ #Create Streamlit Dashboard
 
 import streamlit as st
 import yfinance as yf
