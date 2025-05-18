@@ -1,16 +1,8 @@
  #Create Streamlit Dashboard
 
 import streamlit as st
-import yfinance as yf
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
-import tensorflow as tf
-from tensorflow.keras.models import load_model
-from sklearn.preprocessing import MinMaxScaler
-import datetime as dt
-import talib
-
 # Load the model
 @st.cache_resource
 def load_lstm_model():
