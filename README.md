@@ -42,7 +42,8 @@ Prepare time-series sequences for LSTM input
 3. Build LSTM Model
 Example architecture using Keras:
 4. Train & Validate Model
-Train with training data and validate on test data:
+Train with training data and validate on test data:![WhatsApp Image 2025-05-18 at 10 41 41 (2)](https://github.com/user-attachments/assets/623c411f-dbb0-48ff-872c-6c096e2379f9)
+
 5. Plot Predictions vs Actual
 
 6. Add Technical Indicators (Moving Average, RSI)
